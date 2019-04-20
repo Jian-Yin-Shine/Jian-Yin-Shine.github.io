@@ -1,21 +1,24 @@
+# 基础设置
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+title: Jian.Yin Blog
+SEOTitle: Jian.Yin 的博客 | Jian.Yin Blog
+header-img: img/index/blog_logo.jpg
+email: 1262094391@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "Algorithm, Deep learning, Machine learning, Reinforcement learning, Mxnet, Gluon, CV, NLP, Python"
+url: "http://jian-yin-shine.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Jian-Yin-Shine/Jian-Yin-Shine.github.io.git" # you code repository
 
+
+# 侧边栏，开启侧边栏true
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Love life and be grateful for it"
+sidebar-avatar: /img/index/head_pic.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
+# 社交账号,开启 true, True
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
@@ -59,26 +62,27 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
+# 评论系统2.
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#  repo: qiubaiying.github.io    #仓库名称
+#  owner: qiubaiying    #github用户名
+#  admin: qiubaiying
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +103,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "My Github",
+        href: "https://github.com/Jian-Yin-Shine"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "博客园",
+        href: "http://www.cnblogs.com/TreeDream"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "李健恒",
+        href: "https://github.com/ljhandlwt"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "马毅",
+        href: "https://github.com/law52525"
     }
 ]
