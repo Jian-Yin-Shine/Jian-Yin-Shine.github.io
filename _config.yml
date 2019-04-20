@@ -2,7 +2,7 @@
 # Site settings
 title: Jian.Yin Blog
 SEOTitle: Jian.Yin 的博客 | Jian.Yin Blog
-header-img: img/index/blog_logo.jpg
+header-img: img//index//blog_logo.jpg
 email: 1262094391@qq.com
 description: "Every failure is leading towards success."
 keyword: "Algorithm, Deep learning, Machine learning, Reinforcement learning, Mxnet, Gluon, CV, NLP, Python"
