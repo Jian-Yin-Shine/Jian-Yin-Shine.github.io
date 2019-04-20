@@ -20,7 +20,7 @@ sidebar-avatar: /img/index/head_pic.jpg     # use absolute URL, seeing it's used
 
 # 社交账号,开启 true, True
 # SNS settings
-RSS: false
+RSS: True
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
