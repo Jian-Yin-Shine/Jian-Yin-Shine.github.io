@@ -116,3 +116,5 @@ friends: [
         href: "https://github.com/law52525"
     }
 ]
+
+theme: jekyll-theme-cayman
