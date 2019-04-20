@@ -20,7 +20,7 @@ sidebar-avatar: /img/index/head_pic.jpg     # use absolute URL, seeing it's used
 
 # 社交账号,开启 true, True
 # SNS settings
-$ RSS: True
+# RSS: True
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
@@ -43,7 +43,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
+# plugins: [jekyll-paginate]
 
 
 
